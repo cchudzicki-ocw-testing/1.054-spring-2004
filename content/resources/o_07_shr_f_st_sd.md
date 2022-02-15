@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_07_shr_f_st_sd.pdf
-type: OCWFile
 uid: 0ff689e4-07b5-f081-dc65-df8039096d03
 ---

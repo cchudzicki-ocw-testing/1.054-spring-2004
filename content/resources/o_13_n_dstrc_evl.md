@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_13_n_dstrc_evl.pdf
-type: OCWFile
 uid: 6aedeab1-2698-9039-773c-5b85c3c8de9b
 ---

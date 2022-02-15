@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_rchrd_unrh.pdf
-type: OCWFile
 uid: a5162f3c-6354-5a57-f4dd-f526d5a0abef
 ---

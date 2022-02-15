@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prpsl_andra_scot.pdf
-type: OCWFile
 uid: 279f3029-5423-da9b-690e-a907ed4dd537
 ---

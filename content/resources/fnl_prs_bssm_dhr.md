@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnl_prs_bssm_dhr.pdf
-type: OCWFile
 uid: 1a859238-ff6f-b993-a387-7c5b74ef4d37
 ---

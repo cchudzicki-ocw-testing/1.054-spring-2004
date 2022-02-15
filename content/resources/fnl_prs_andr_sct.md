@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnl_prs_andr_sct.pdf
-type: OCWFile
 uid: d5b06789-1df9-b073-f118-28ad7ff5ddba
 ---

@@ -14,6 +14,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: termprojectassig.pdf
-type: OCWFile
 uid: 3bfc6fd6-e47a-9f20-342e-2aa445a3f46e
 ---

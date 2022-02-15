@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prpsl_albrt_ortg.pdf
-type: OCWFile
 uid: 48d10253-83a1-897b-3125-50ef5f2a114e
 ---

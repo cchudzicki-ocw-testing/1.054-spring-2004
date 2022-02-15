@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_chkrpn_tkt.pdf
-type: OCWFile
 uid: a8c9a0d8-5b2e-e134-1365-32a0e535fc43
 ---

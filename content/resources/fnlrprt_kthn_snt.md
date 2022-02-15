@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnlrprt_kthn_snt.pdf
-type: OCWFile
 uid: de5d04a6-31a9-6bbf-ccbb-57ddc332922b
 ---

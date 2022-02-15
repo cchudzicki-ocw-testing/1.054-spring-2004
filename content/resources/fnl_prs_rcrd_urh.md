@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnl_prs_rcrd_urh.pdf
-type: OCWFile
 uid: 7733ba05-d61b-0d3d-2769-eb525a53cec5
 ---

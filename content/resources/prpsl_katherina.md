@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prpsl_katherina.pdf
-type: OCWFile
 uid: 0407259a-c2c0-886f-418a-18a6a24dfdfc
 ---

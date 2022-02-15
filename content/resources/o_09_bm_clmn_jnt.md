@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_09_bm_clmn_jnt.pdf
-type: OCWFile
 uid: 0aef78df-300d-ed2f-a906-06f3da1dc2e9
 ---

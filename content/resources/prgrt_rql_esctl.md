@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_rql_esctl.pdf
-type: OCWFile
 uid: fb4f9003-138f-76ef-3f13-0f060827c185
 ---

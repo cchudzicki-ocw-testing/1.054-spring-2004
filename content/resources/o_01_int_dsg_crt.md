@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_01_int_dsg_crt.pdf
-type: OCWFile
 uid: c2deede5-580a-ad78-dc2b-2c580996c221
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: proposl_wodzicki.pdf
-type: OCWFile
 uid: f13fd74f-3481-53ad-a343-476f451a5a0a
 ---

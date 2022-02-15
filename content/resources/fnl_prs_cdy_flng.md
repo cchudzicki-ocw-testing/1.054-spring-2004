@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnl_prs_cdy_flng.pdf
-type: OCWFile
 uid: 23022779-c7b1-01a3-86fd-49566648973c
 ---

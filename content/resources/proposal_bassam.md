@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: proposal_bassam.pdf
-type: OCWFile
 uid: 77632777-e1c5-edf4-bfc3-93eda480a5d7
 ---

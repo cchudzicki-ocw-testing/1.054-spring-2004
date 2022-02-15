@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_andra_scot.pdf
-type: OCWFile
 uid: c5eda651-0e1e-177c-7f6b-71a2d4829b50
 ---

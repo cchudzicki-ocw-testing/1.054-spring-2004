@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_04_frctr_cncpt.pdf
-type: OCWFile
 uid: 9243e83f-5f8d-ac82-6eaa-fb6984a07ac2
 ---

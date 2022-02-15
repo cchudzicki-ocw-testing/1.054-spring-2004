@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_14_e_rsk_a_h_m.pdf
-type: OCWFile
 uid: 156b9930-6ce3-8bde-0113-437b706b48e7
 ---

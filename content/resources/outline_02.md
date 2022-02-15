@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Outline_02.pdf
-type: OCWFile
 uid: 360ed8b9-d65a-5bda-aa94-bf0910563129
 ---

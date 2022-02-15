@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prpsl_alex_otnti.pdf
-type: OCWFile
 uid: 250dacb7-a778-1186-67b2-54cc395df2b0
 ---

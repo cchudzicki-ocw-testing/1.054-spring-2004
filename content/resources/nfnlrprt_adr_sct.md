@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nfnlrprt_adr_sct.pdf
-type: OCWFile
 uid: e2308c53-353e-2e9f-f99e-673502be03c5
 ---

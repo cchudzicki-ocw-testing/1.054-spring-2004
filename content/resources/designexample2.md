@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: DesignExample2.pdf
-type: OCWFile
 uid: 13fc19d9-f3cc-5de9-392f-d1553a1e9405
 ---

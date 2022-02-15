@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_cody_flmng.pdf
-type: OCWFile
 uid: ebc6a6f7-c97b-7c0f-4af6-619ff204d984
 ---

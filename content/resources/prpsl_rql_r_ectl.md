@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prpsl_rql_r_ectl.pdf
-type: OCWFile
 uid: e4605a24-cf7b-83f8-19eb-ab8eed14df8a
 ---

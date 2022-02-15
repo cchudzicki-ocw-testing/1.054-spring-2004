@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnlrprt_alx_otnt.pdf
-type: OCWFile
 uid: fc54e0dc-7b77-cde7-bb14-5fd9c5ec4cb3
 ---

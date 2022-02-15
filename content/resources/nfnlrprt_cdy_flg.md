@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nfnlrprt_cdy_flg.pdf
-type: OCWFile
 uid: 5ddb3a21-d378-a422-7561-0d79e5140c29
 ---

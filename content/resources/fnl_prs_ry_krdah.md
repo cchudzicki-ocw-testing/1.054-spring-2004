@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fnl_prs_ry_krdah.pdf
-type: OCWFile
 uid: 25b97cb9-dcd2-180d-4380-9df95ef32b31
 ---

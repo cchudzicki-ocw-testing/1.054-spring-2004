@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_evan_lapnt.pdf
-type: OCWFile
 uid: a5fcb97f-d9d1-94e4-5d6d-1a8bbbe3b4ea
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nfnlrprt_abt_org.pdf
-type: OCWFile
 uid: 6698ca34-db38-fc42-85c8-67ed4ad13378
 ---

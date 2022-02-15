@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_06_dcty_dflctn.pdf
-type: OCWFile
 uid: 595a606a-bc6a-3f85-8568-48aa741ba382
 ---

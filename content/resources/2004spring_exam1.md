@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 2004spring_exam1.pdf
-type: OCWFile
 uid: 2f773045-9657-5534-145e-7f2e7bffa002
 ---

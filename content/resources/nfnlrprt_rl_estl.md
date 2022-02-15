@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nfnlrprt_rl_estl.pdf
-type: OCWFile
 uid: f79a44b0-cf25-9e10-df7b-567f903626c2
 ---

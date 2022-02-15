@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: chp_boston.jpg
-type: OCWImage
 uid: 4e9f9968-0d56-48fc-c7e6-c02cc9898940
 ---

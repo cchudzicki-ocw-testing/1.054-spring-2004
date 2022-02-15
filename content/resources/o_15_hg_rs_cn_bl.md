@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: o_15_hg_rs_cn_bl.pdf
-type: OCWFile
 uid: 52aa85e4-e803-c2c0-83ad-127929648199
 ---

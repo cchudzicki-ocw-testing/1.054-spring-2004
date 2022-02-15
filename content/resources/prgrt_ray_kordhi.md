@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_ray_kordhi.pdf
-type: OCWFile
 uid: 78e82ae2-d381-4a26-c44c-89a9bef1316b
 ---

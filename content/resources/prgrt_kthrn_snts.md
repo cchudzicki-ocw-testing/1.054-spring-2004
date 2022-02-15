@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_kthrn_snts.pdf
-type: OCWFile
 uid: f10a38da-862d-93ca-645f-8f4e8a3c4270
 ---

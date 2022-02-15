@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prgrt_alex_otent.pdf
-type: OCWFile
 uid: 0c0ae388-953d-f41f-9d9e-6beacdfce75b
 ---
