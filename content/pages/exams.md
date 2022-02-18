@@ -7,5 +7,5 @@ title: Exams
 uid: 960e1dfe-808b-d7b8-dbf0-49ef6d3226e6
 ---
 
-Exam 1 ([PDF]({{< baseurl >}}/resources/2004spring_exam1))  
-Exam 2 ([PDF]({{< baseurl >}}/resources/2004spring_exam2))
+Exam 1 ({{< resource_link 2f773045-9657-5534-145e-7f2e7bffa002 "PDF" >}})  
+Exam 2 ({{< resource_link 45201b6b-9495-a838-4c99-c898d056aaca "PDF" >}})
